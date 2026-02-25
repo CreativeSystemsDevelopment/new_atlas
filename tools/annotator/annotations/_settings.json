@@ -1,0 +1,16 @@
+{
+  "stroke_width": 1,
+  "snap_padding": 1,
+  "roboflow": {
+    "api_key": "kh6oSo1qLCk6tWT8cvY7",
+    "workspace": "Atlas-Platform-API",
+    "project": "atlas-schematics"
+  },
+  "rf_coco_name": "atlas-roboflow",
+  "rf_coco_train_pct": 98,
+  "rf_dataset_name": "atlas-dataset",
+  "rf_train_pct": 100,
+  "comp_dataset_name": "atlas-components-7to40-validated",
+  "comp_train_pct": 80,
+  "comp_upload_drive": true
+}

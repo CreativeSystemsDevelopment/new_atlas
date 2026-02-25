@@ -1,0 +1,4 @@
+train: train/images
+val: valid/images
+nc: 53
+names: ['A', 'AIR', 'AMP', 'BRAKE', 'CNV', 'CON', 'CONTROLSOURCE', 'CP', 'CPA', 'CPB', 'CPC', 'CPD', 'CR', 'CRF', 'CT', 'DBU', 'DOORINTERLOCK', 'DS', 'EARTHLEAKAGEDETECTOR', 'ELB', 'ELR', 'F', 'G', 'INV', 'KS', 'LED', 'LNF', 'M', 'MC', 'MCA', 'MCB', 'MCC', 'MCF', 'MCR', 'MMS', 'MODULE', 'MOTORBOX', 'MS', 'PBES', 'PC', 'PCES', 'PL', 'R', 'REC', 'RTC', 'SR', 'SRU', 'SZZ', 'T', 'TB', 'THR', 'WHM', 'ZCT']

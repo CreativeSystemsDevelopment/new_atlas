@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "1768904634402_TIMER.png",
+    "name": "Timer"
+  },
+  {
+    "filename": "1768904748354_TIME_DELAY_CLOSING_CONTACT.png",
+    "name": "Time Delay Closing Contact"
+  },
+  {
+    "filename": "1768907009950_TIME_DELAY_OPENING_CONTACT.png",
+    "name": "Time delay opening contact"
+  },
+  {
+    "filename": "1768907048393_NORMALLY_OPEN_CONTACT_TIMER.png",
+    "name": "Normally open contact timer"
+  },
+  {
+    "filename": "1768907082459_PILOT_LAMP.png",
+    "name": "Pilot lamp"
+  },
+  {
+    "filename": "1768907115829_ILLUMINATED_PUSH_BUTTON_SWITCH_NORMALLY_OPEN.png",
+    "name": "Illuminated push button switch normally open"
+  },
+  {
+    "filename": "1768907154663_EMERGENCY_STOP_BUTTON_SWITCH.png",
+    "name": "Emergency stop button switch"
+  },
+  {
+    "filename": "1768907177520_KEY_SWITCH.png",
+    "name": "Key switch"
+  },
+  {
+    "filename": "1768907219837_PUSH_BUTTON_SWITCH.png",
+    "name": "Push button switch"
+  },
+  {
+    "filename": "1768907292454_SELECTOR_SWITCH.png",
+    "name": "Selector switch"
+  },
+  {
+    "filename": "1768907382854_SAFETY_SWITCH.png",
+    "name": "Safety switch"
+  },
+  {
+    "filename": "1768907489437_LIMIT_SWITCH.png",
+    "name": "Limit switch"
+  },
+  {
+    "filename": "1768907529769_LIMIT_SWITCH_NORMALLY_CLOSED.png",
+    "name": "Limit switch normally closed"
+  },
+  {
+    "filename": "1768907571430_FUSE.png",
+    "name": "Fuse"
+  },
+  {
+    "filename": "1768907613616_PLUG_SWITCH.png",
+    "name": "Plug switch"
+  },
+  {
+    "filename": "1768907655469_PROXIMITY_SWITCH_NORMALLY_OPEN.png",
+    "name": "Proximity switch normally open"
+  },
+  {
+    "filename": "1768907696801_PROXIMITY_SWITCH_NORMALLY_CLOSED.png",
+    "name": "Proximity switch normally closed"
+  },
+  {
+    "filename": "1768907774135_PRESSURE_SWITCH_NORMALLY_OPEN.png",
+    "name": "Pressure switch normally open"
+  },
+  {
+    "filename": "1768907818033_PRESSURE_SWITCH_NORMALLY_CLOSED.png",
+    "name": "Pressure switch normally closed"
+  },
+  {
+    "filename": "1768907902270_PRESSURE_SWITCH_VACUUM_NORMALLY_OPEN.png",
+    "name": "Pressure switch vacuum normally open"
+  },
+  {
+    "filename": "1768907938997_PRESSURE_SWITCH_VACUUM_NORMALLY_CLOSED.png",
+    "name": "Pressure switch vacuum normally closed"
+  },
+  {
+    "filename": "1768909443375_FLOW_SWITCH_NORMALLY_CLOSED.png",
+    "name": "Flow Switch Normally Closed"
+  },
+  {
+    "filename": "1768909469834_FLOW_SWITCH_NORMALLY_OPEN.png",
+    "name": "Flow Switch Normally Open"
+  },
+  {
+    "filename": "1768909531561_LEVEL_SWITCH_NORMALLY_OPEN.png",
+    "name": "Level Switch Normally Open"
+  },
+  {
+    "filename": "1768909556204_LEVEL_SWITCH_NORMALLY_CLOSED.png",
+    "name": "Level Switch Normally Closed"
+  },
+  {
+    "filename": "1768909585740_TEMPERATURE_SWITCH_NORMALLY_OPEN.png",
+    "name": "Temperature Switch Normally Open"
+  },
+  {
+    "filename": "1768909630282_TEMPERATURE_SWITCH_NORMALLY_CLOSED.png",
+    "name": "Temperature Switch Normally Closed"
+  },
+  {
+    "filename": "1768909687279_SOLENOID_VALVE.png",
+    "name": "Solenoid Valve"
+  },
+  {
+    "filename": "1768910741844_MOLDED_CASE_CIRCUIT_BREAKER__3_PHASE.png",
+    "name": "Molded Case Circuit Breaker, 3 Phase"
+  },
+  {
+    "filename": "1768910761546_MOLDED_CASE_CIRCUIT_BREAKER__2_PHASE.png",
+    "name": "Molded Case Circuit Breaker, 2 Phase"
+  },
+  {
+    "filename": "1768910782879_INDUCTION_MOTOR.png",
+    "name": "Induction Motor"
+  },
+  {
+    "filename": "1768910817107_TRANSFORMER.png",
+    "name": "Transformer"
+  },
+  {
+    "filename": "1768910834984_EARTH.png",
+    "name": "Earth"
+  },
+  {
+    "filename": "1768910888674_THERMAL_OVERLOAD_RELAY.png",
+    "name": "Thermal Overload Relay"
+  },
+  {
+    "filename": "1768910924870_THERMAL_OVERLOAD_RELAY_BREAK_CONTACT.png",
+    "name": "Thermal Overload Relay Break Contact"
+  },
+  {
+    "filename": "1768910951374_MAGNETIC_CONTACTOR.png",
+    "name": "Magnetic Contactor"
+  },
+  {
+    "filename": "1768910964227_AUX__RELAY.png",
+    "name": "Aux. Relay"
+  },
+  {
+    "filename": "1768910996988_MAKE_CONTACT.png",
+    "name": "Make Contact"
+  },
+  {
+    "filename": "1768911007775_BREAK_CONTACT.png",
+    "name": "Break Contact"
+  },
+  {
+    "filename": "1768911036461_TIMER.png",
+    "name": "Timer"
+  }
+]

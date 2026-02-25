@@ -1,0 +1,53 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ .s1 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14.5pt; }
+ .s2 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s3 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .s4 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14.5pt; }
+ .s5 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s6 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12.5pt; }
+ .s7 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
+ .s8 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 1pt; }
+ .s9 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s10 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14.5pt; }
+ .s11 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; }
+ .s12 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ .s13 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 4.5pt; }
+ .s14 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 17pt; }
+ .s15 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .p, p { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; margin:0pt; }
+ .s16 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; vertical-align: -2pt; }
+ .s17 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s18 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s19 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s20 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; }
+ .s21 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 5pt; }
+ .s22 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; vertical-align: 1pt; }
+ .s23 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -2pt; }
+ .s24 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -2pt; }
+ .s25 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 2pt; }
+ .s26 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; vertical-align: 2pt; }
+ .s27 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; vertical-align: 5pt; }
+ .s28 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; vertical-align: 2pt; }
+ .s29 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 3pt; vertical-align: 2pt; }
+ .s30 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
+ .s31 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; vertical-align: -3pt; }
+ .s32 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ .s33 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5pt; }
+ .s34 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; }
+ .s35 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: -3pt; }
+ .s36 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -4pt; }
+ .s37 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5.5pt; vertical-align: 3pt; }
+ .s38 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ .s39 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; }
+ .s40 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s41 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -1pt; }
+ .s42 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s43 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s44 { color: black; font-family:"MS PGothic", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s45 { color: black; font-family:"MS PGothic", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s46 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: line-through; font-size: 8pt; }
+ .s48 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8.5pt; }
+ .s49 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 1pt; }
+ .s50 { color: black; font-family:"MS Gothic", monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -4pt; }
+ .s51 { color: black; font-family:"MS PGothic", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ table, tbody {vertical-align: top; overflow: visible; }

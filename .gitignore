@@ -1,0 +1,16 @@
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Preprocessed data (large images)
+tools/annotator/data/
+
+# Annotations (user-generated, track separately if desired)
+# tools/annotator/annotations/
+
+# OS
+Thumbs.db
+.DS_Store

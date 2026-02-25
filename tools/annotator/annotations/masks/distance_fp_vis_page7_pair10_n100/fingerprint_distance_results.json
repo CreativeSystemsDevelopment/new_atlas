@@ -1,0 +1,93 @@
+[
+  {
+    "page": 7,
+    "pair": 10,
+    "label": "ELB 3 Phase",
+    "score": 0.9573737373737373,
+    "bbox_pdf": [
+      178.28,
+      532.94,
+      218.38,
+      587.02
+    ],
+    "fingerprint_vis": "masks/distance_fp_vis_page7_pair10_n100/fp_page_7_pair_10_seed2_score0.957.png"
+  },
+  {
+    "page": 8,
+    "pair": 11,
+    "label": "ELB",
+    "score": 0.9678787878787879,
+    "bbox_pdf": [
+      190.34,
+      643.16,
+      228.4,
+      696.22
+    ],
+    "fingerprint_vis": "masks/distance_fp_vis_page7_pair10_n100/fp_page_8_pair_11_seed1_score0.968.png"
+  },
+  {
+    "page": 10,
+    "pair": 12,
+    "label": "ELB 3 Phase",
+    "score": 0.9802020202020202,
+    "bbox_pdf": [
+      158.24,
+      552.98,
+      198.34,
+      603.04
+    ],
+    "fingerprint_vis": "masks/distance_fp_vis_page7_pair10_n100/fp_page_10_pair_12_seed0_score0.980.png"
+  },
+  {
+    "page": 11,
+    "pair": 0,
+    "label": "ELB 3 Phase",
+    "score": 0.934949494949495,
+    "bbox_pdf": [
+      168.32,
+      167.36,
+      208.36,
+      226.42
+    ],
+    "fingerprint_vis": "masks/distance_fp_vis_page7_pair10_n100/fp_page_11_pair_0_seed1_score0.935.png"
+  },
+  {
+    "page": 11,
+    "pair": 6,
+    "label": "ELB 3 Phase",
+    "score": 0.96,
+    "bbox_pdf": [
+      169.28,
+      302.54,
+      209.38,
+      352.66
+    ],
+    "fingerprint_vis": "masks/distance_fp_vis_page7_pair10_n100/fp_page_11_pair_6_seed0_score0.960.png"
+  },
+  {
+    "page": 11,
+    "pair": 7,
+    "label": "ELB",
+    "score": 0.9680808080808081,
+    "bbox_pdf": [
+      169.28,
+      422.78,
+      209.38,
+      472.84
+    ],
+    "fingerprint_vis": "masks/distance_fp_vis_page7_pair10_n100/fp_page_11_pair_7_seed0_score0.968.png"
+  },
+  {
+    "page": 11,
+    "pair": 10,
+    "label": "ELB  3 Phase",
+    "score": 0.9824242424242424,
+    "bbox_pdf": [
+      169.28,
+      542.96,
+      209.38,
+      593.02
+    ],
+    "fingerprint_vis": "masks/distance_fp_vis_page7_pair10_n100/fp_page_11_pair_10_seed0_score0.982.png"
+  }
+]
