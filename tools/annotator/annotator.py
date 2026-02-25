@@ -1037,6 +1037,27 @@ class SchematicView(QGraphicsView):
         self._mask_init_for_page()
         self.pairCreated.emit()
 
+    def _mask_dispose_overlay_item(self):
+        """Safely remove the mask overlay item if it still exists."""
+        if self._mask_overlay_item is None:
+            return
+
+        item = self._mask_overlay_item
+        self._mask_overlay_item = None
+
+        try:
+            overlay_scene = item.scene()
+        except RuntimeError:
+            # QObject was already deleted by scene teardown on page change.
+            return
+
+        if overlay_scene is not None:
+            try:
+                overlay_scene.removeItem(item)
+            except RuntimeError:
+                # Ignore stale wrapper references to already-deleted C++ objects.
+                return
+
     def _mask_exit(self):
         """Exit mask mode, save overlay."""
         self._mask_save_overlay()
@@ -1046,9 +1067,7 @@ class SchematicView(QGraphicsView):
         self._mask_erasing = False
         self._mask_erase_mode = False
         self._mask_active_pair = None
-        if self._mask_overlay_item:
-            self.scene().removeItem(self._mask_overlay_item)
-            self._mask_overlay_item = None
+        self._mask_dispose_overlay_item()
         self._mask_source_image = None
         self._mask_overlay_image = None
         self.setCursor(Qt.CrossCursor)
@@ -1062,8 +1081,7 @@ class SchematicView(QGraphicsView):
         self._mask_overlay_image = QImage(w, h, QImage.Format_ARGB32)
         self._mask_overlay_image.fill(QColor(0, 0, 0, 0))
         self._mask_load_overlay()
-        if self._mask_overlay_item:
-            self.scene().removeItem(self._mask_overlay_item)
+        self._mask_dispose_overlay_item()
         self._mask_overlay_item = self.scene().addPixmap(
             QPixmap.fromImage(self._mask_overlay_image))
         self._mask_overlay_item.setZValue(5)
