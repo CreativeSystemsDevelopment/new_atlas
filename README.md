@@ -60,3 +60,7 @@ new_atlas/
 ├── resources/             # Schematic PDFs and symbol libraries
 └── requirements.txt
 ```
+
+## Full repo index
+
+For a practical file-by-file map and feature index, see [`PROJECT_INDEX.md`](PROJECT_INDEX.md).

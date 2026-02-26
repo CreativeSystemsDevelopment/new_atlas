@@ -6,7 +6,7 @@ __pycache__/
 venv/
 
 # Preprocessed data (large images)
-tools/annotator/data/
+# tools/annotator/data/
 
 # Annotations (user-generated, track separately if desired)
 # tools/annotator/annotations/
